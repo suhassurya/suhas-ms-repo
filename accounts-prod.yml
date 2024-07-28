@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related docker APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    email: "{cipher}c15a8b520075b79446ce67a28ff81b7219148399eb8e1a5df3b4d7a20b900a7c7219bf069e1a04b2e3259817e51ea75e"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
